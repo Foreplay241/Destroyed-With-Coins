@@ -18,4 +18,4 @@ I used [Wolfram Tones](https://tones.wolfram.com/generate/G8fukGwScIAo3HGlbn1QWR
 
 [https://sfxr.me/](https://sfxr.me/) helped me make coin and anvil noises. (It did most of the work, I clicked a button until I liked the sound.)
 
-[Aseprite](https://www.aseprite.org/) was a fantastic tool to make the coin and anvil.
+[Aseprite](https://www.aseprite.org/) is a fantastic tool to make the coin and anvil.
